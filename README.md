@@ -1,9 +1,9 @@
 Harry Jon: The Escape Game
 
-A choice-based C++ console application where players must guess the correct key to escape Harry Jon's game.
+A choice based C++ console application where players must guess the correct key to escape Harry Jon's game.
 
 Background
-Harry Jon is a character who plays a high-stakes game with his captives every mid-month Sunday. He flips a coin to decide your chances. If you guess correctly, you are released; if not, there are no second tries in his world.
+Harry Jon is a character who plays a high stakes game with his captives every mid-month Sunday. He flips a coin to decide your chances. If you guess correctly, you are released; if not, there are no second tries in his world.
 
 Features
 Multiple Difficulty Levels**: 
